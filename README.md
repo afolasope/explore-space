@@ -1,6 +1,6 @@
 # Frontend Mentor - Space tourism website solution
 
-This is a solution to the [Space tourism website challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Space tourism website challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -14,7 +14,6 @@ This is a solution to the [Space tourism website challenge on Frontend Mentor](h
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-
 
 ## Overview
 
@@ -32,10 +31,11 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [](https://www.frontendmentor.io/solutions/response-space-tourism-website-using-sass-preprocessor-LfEX87vM_)
+- Live Site URL: [](https://afolasope.github.io/responsive-space-tourism-website/starter-code/index.html)
 
 ## My process
+
 ### Built with
 
 - Semantic HTML5 markup
@@ -44,17 +44,15 @@ Users should be able to:
 - Mobile-first workflow
 - [SASS](https://sass-lang.com/) - For styles
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ### What I learned
 
-- I built this project using Sass. It's my first doing something this big with Sass, so I had  a lot to learn. Prior to this, I had a good understanding of CSS Specificity but this helped me gain more insight into it
-
+- I built this project using Sass. It's my first doing something this big with Sass, so I had a lot to learn. Prior to this, I had a good understanding of CSS Specificity but this helped me gain more insight into it
 
 ### Continued development
 
-- I would need to work on the filter-blur prperty as it is currently not supported by Firefox but works well in chrome. 
-- Also on the last page (technology), I need to learn how to change the images displayed based on the active viewport. 
+- I would need to work on the filter-blur prperty as it is currently not supported by Firefox but works well in chrome.
+- Also on the last page (technology), apply changes the images displayed based on the active viewport.
+- Apply aspect ratio to images using css-aspect-ratio
 
 ### Useful resources
 
@@ -64,7 +62,4 @@ Users should be able to:
 
 - Afolasope Adebanjo
 - Frontend Mentor - [@afolasope](https://www.frontendmentor.io/profile/afolasope)
-- Twitter - [@afolasope_](https://twitter.com/afolasope_)
-
-
-
+- Twitter - [@afolasope\_](https://twitter.com/afolasope_)
